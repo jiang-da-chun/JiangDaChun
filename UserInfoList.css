@@ -1,0 +1,93 @@
+﻿#nav-list
+{
+    line-height:30px;
+    background-color:#c5defb;
+    padding-left:20px;
+    margin-bottom:10px;
+}
+
+#nav-list a
+{
+    text-decoration:none;
+    font-family:"微软雅黑";
+    font-size:15px;
+    color:#444;
+}
+#main-list,#search
+{
+    width:97%;
+    margin:0 auto;
+}
+
+#search
+{
+    margin-bottom:5px;
+    font-size:15px;
+    display:none;
+}
+
+#tbKey
+{
+    width:300px;
+}
+
+#btnSearch
+{
+    width:40px;
+    line-height:23px;
+    margin-left:15px;
+    font-size:15px;
+}
+
+#main-list th
+{
+    background-color:#D6E7FC;
+    font-family:"微软雅黑";
+    font-size:15px;
+}
+#main-list td,#main-list th
+{
+    border:1px solid #ddd;
+    line-height:30px;
+    padding:0 3px;
+    text-align:center;
+}
+.check-box
+{
+    width:10px;
+}
+
+.tr-background
+{
+    background-color:#D6E7FC;
+}
+
+td a
+{
+    font-family:"微软雅黑";
+    text-decoration:none;
+    color:#444;
+}
+
+/*--分页条--*/
+.pager
+{
+    text-align:right;
+    height:30px;
+    padding:0 10px;
+    float:right;
+    margin-top:10px;
+}
+
+.pager a
+{
+    border:1px solid #eee;
+    padding:2px 8px;
+}
+
+.pager a:hover
+{
+    color:#fff;
+    background-color:#FF0000;
+}
+

@@ -1,0 +1,26 @@
+﻿#top
+{
+    height:50px;
+    background-color:#102A49;
+    line-height:40px;
+    color:White;
+    padding-left:20px;
+    font-size:20px;
+    font-family:"微软雅黑";
+}
+#bottom
+{
+    line-height:30px;
+    padding-left:20px;
+    background-color:#E5EDEF;
+    text-align:center;
+}
+#container
+{
+    width:99%;
+}
+#center iframe
+{
+    width:100%;
+    height:100%;
+}
