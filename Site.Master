@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="NetworkEducation.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="Content/CSS/Reset.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <title></title>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div id="header">
+            <div id="title">
+                <h1>
+                    软件工程与计算</h1>
+            </div>
+        </div>
+        <div id="nav">
+            <ul id="nav-list">
+                <li><a href="Index.aspx">首页</a></li><div class="thread">
+                </div>
+                <li><a href="Teaching.aspx">教学材料</a></li><div class="thread1">
+                </div>
+                <li><a href="OnlineStudy.aspx">在线学习</a></li><div class="thread2">
+                </div>
+                <li><a href="DisplayDoubt.aspx">在线答疑</a></li><div class="thread3">
+                </div>
+                <li><a href="ShowProgenyList.aspx">成果分享</a></li>
+            </ul>
+        </div>
+        <div id="userLoginName">
+            欢迎您：<%=Session["LoginName"]%> &nbsp; <a href="Default.aspx">【退出】</a>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="mainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="footer">
+            <div id="footContaint">
+                <p>
+                    版权所有：贵大某开发小组&nbsp;&nbsp;&nbsp; 开发时间2013年10月&nbsp;&nbsp;&nbsp; 联系人：XXX</p>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
