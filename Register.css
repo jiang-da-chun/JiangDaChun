@@ -1,0 +1,122 @@
+﻿
+body
+{
+    background:url(../Image/EducationImage/bg1.jpg);
+}
+#container
+{ 
+    border:1px solid #ddd;
+    width:810px;
+    margin:0 auto;
+    background-color:#fff;
+    margin-top:15px;
+}
+#header
+{
+    width:780px;
+    height:220px;
+    background:url(../Image/EducationImage/qyb1.jpg);
+    margin-left:14px;
+    margin-top:15px;
+}
+
+#title
+{
+    position:absolute;
+    top:30px;
+    margin-left:10px;
+    font-size:40px;
+    color:#fff;
+   
+}
+#title h1
+{
+    font:方正舒体;
+}
+
+#userRegister
+{
+    width:780px;
+    border:1px solid #ddd;
+    height:48px;
+    background:url(../Image/EducationImage/box_tit_bg.gif);
+    margin-left:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#user
+{
+   
+    background:url(../Image/EducationImage/arrow_201.gif) 0 7px no-repeat;
+    padding-left:20px;
+    font-size:15px;
+    margin:10px 0 0 15px;
+    color:blue;
+}
+
+fieldset
+{
+    border:1px solid #ddd;
+    margin-left:15px;
+    width:780px;
+}
+
+#userInfo
+{
+    margin:5px auto;
+    
+}
+
+.editor-label
+{
+    text-align:right;
+}
+
+.inputBox
+{
+    width:155px;
+}
+
+#sexFemale
+{
+    margin-left:20px;
+}
+
+.editor-field
+{
+    padding-bottom:10px;
+    
+}
+
+#login
+{
+    float:left;
+}
+
+#Reset1
+{
+    float:left;
+    margin-left:58px;
+}
+
+
+
+#footer
+{
+    
+    width:780px;
+    height:38px;
+    background:url(../Image/EducationImage/bgfooter.gif);
+    margin-bottom:5px;
+    margin-left:15px;
+    margin-top:50px;
+}
+
+#footContaint p
+{
+   text-align:center;
+   margin-left:70px;
+   color:#fff;
+   line-height:38px;
+}

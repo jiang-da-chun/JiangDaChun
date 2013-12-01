@@ -1,0 +1,167 @@
+﻿
+body
+{
+    background:url(../Image/EducationImage/bg.jpg);
+}
+#container
+{ 
+    border:1px solid #ddd;
+    width:810px;
+    margin:0 auto;
+    background-color:#fff;
+    margin-top:15px;
+}
+#header
+{
+    width:780px;
+    height:220px;
+    background:url(../Image/EducationImage/qyb1.jpg);
+    margin-left:14px;
+    margin-top:15px;
+}
+
+#title
+{
+    position:absolute;
+    top:30px;
+    margin-left:10px;
+    font-size:40px;
+    color:#fff;
+   
+}
+
+#nav
+{
+    width:780px;
+    height:53px;
+    background:url(../Image/EducationImage/nav.jpg);
+    position:absolute;
+    top:255px;
+    margin-left:14px;
+}
+#nav-list li
+{
+    float:left;
+    line-height:53px;
+    margin-left:75px;
+   
+}
+#nav-list li a
+{
+    font-size:large;
+    color:#fff;
+    text-decoration:none;
+}
+img
+{
+    height:53px;
+    position:absolute;
+    padding-left:32px;
+}
+
+.thread
+{
+    position:absolute;
+    margin-left:148px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread1
+{
+    position:absolute;
+    margin-left:292px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread2
+{
+    position:absolute;
+    margin-left:442px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread3
+{
+    position:absolute;
+    margin-left:586px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+
+#main
+{
+    background-color:#fff;
+    width:780px;
+    margin-left:14px;
+}
+
+#userLoginName
+{
+    margin-top:65px;
+    margin-left:540px;
+}
+#userLoginName a
+{
+    text-decoration:none;
+}
+
+
+#footer
+{
+    
+    width:780px;
+    height:38px;
+    background:url(../Image/EducationImage/bgfooter.gif);
+    margin-bottom:5px;
+    margin-left:15px;
+    margin-top:50px;
+}
+
+#footContaint p
+{
+   text-align:center;
+   margin-left:70px;
+   color:#fff;
+   line-height:38px;
+}
+
+#knownCross
+{
+    border:1px solid #ddd;
+    margin-top:15px;
+    
+    
+}
+#caseAnalyse
+{
+    border:1px solid #ddd;
+    margin-top:20px;
+}
+#knownCross-head,#caseAnalyse-head
+{
+    background:url(../Image/EducationImage/box_tit_bg.gif);
+    width:780px;
+    line-height:35px;
+    border-bottom:1px solid #ddd;  
+}
+#knownCross-introduce,#caseAnalyse-intruduce
+{
+    padding-top:10px;
+}
+span
+{
+    background:url(../Image/EducationImage/icon.gif) 0 -200px no-repeat;
+    padding-left:30px;
+    margin-left:20px;
+}
+span a
+{
+    text-decoration:none;
+    font-size:20px;
+    color:Green;
+    font-family:"方正舒体";
+}

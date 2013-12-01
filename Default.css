@@ -1,0 +1,143 @@
+﻿
+body
+{
+    background:url(../Image/EducationImage/bg.jpg);
+}
+#container
+{ 
+    border:1px solid #ddd;
+    width:810px;
+    height:610px;
+    margin:0 auto;
+    background-color:#fff;
+    margin-top:15px;
+}
+#header
+{
+    width:780px;
+    height:220px;
+    background:url(../Image/EducationImage/qyb1.jpg);
+    margin-left:14px;
+    margin-top:15px;
+}
+
+#title
+{
+    position:absolute;
+    top:30px;
+    margin-left:10px;
+    font-size:40px;
+    color:#fff;
+   
+}
+#title h1
+{
+    font:方正舒体;
+}
+
+.index-in
+{
+   margin-left:15px;
+   padding-top:10px;
+}
+#nav
+{
+    width:780px;
+    height:48px;
+    position:absolute;
+    top:288px;
+    margin-left:15px;
+    background-color:#ddeafb;
+    
+}
+a
+{
+    text-decoration:none;
+}
+#nav-logo
+{
+    
+    height:48px;
+    width:200px;
+    background:url(../Image/EducationImage/login_right1.jpg);
+}
+
+fieldset
+{
+    border:1px solid #ddd;
+    position:absolute;
+    top:340px;
+    margin-left:15px;
+    width:778px;
+}
+
+.editor-label,.editor-field,#login
+{
+    margin-left:15px;
+}
+.editor-label
+{
+    padding-top:10px;
+}
+
+#teacher,#student
+{
+    margin-left:8px;
+}
+
+#login
+{
+    float:left;
+}
+
+#Reset1
+{
+    float:left;
+    margin-left:50px;
+}
+
+.inputBox
+{
+    width:155px;
+}
+
+.valideImage
+{
+    float:left;
+}
+#tbValideCode
+{
+    margin-left:10px;
+}
+
+.userType
+{
+    padding-left:10px;
+}
+
+#submit
+{
+    float:left;
+    margin-left:15px;
+}
+
+#footer
+{
+    
+    width:780px;
+    height:38px;
+    background:url(../Image/EducationImage/bgfooter.gif);
+    position:absolute;
+    top:580px;
+    margin-left:15px;
+    
+}
+
+#footContaint p
+{
+   
+   position:absolute;
+   top:7px;
+   margin-left:70px;
+   color:#fff;
+}

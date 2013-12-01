@@ -1,0 +1,218 @@
+﻿
+body
+{
+    background:url(../Image/EducationImage/bg1.jpg);
+}
+#container
+{ 
+    border:1px solid #ddd;
+    width:810px;
+    margin:0 auto;
+    background-color:#fff;
+    margin-top:15px;
+}
+#header
+{
+    width:780px;
+    height:220px;
+    background:url(../Image/EducationImage/qyb1.jpg);
+    margin-left:14px;
+    margin-top:15px;
+}
+
+#title
+{
+    position:absolute;
+    top:30px;
+    margin-left:10px;
+    font-size:40px;
+    color:#fff;
+   
+}
+
+#nav
+{
+    width:780px;
+    height:53px;
+    background:url(../Image/EducationImage/nav.jpg);
+    position:absolute;
+    top:255px;
+    margin-left:14px;
+}
+#nav-list li
+{
+    float:left;
+    line-height:53px;
+    margin-left:75px;
+   
+}
+#nav-list li a
+{
+    font-size:large;
+    color:#fff;
+    text-decoration:none;
+}
+
+.thread
+{
+    position:absolute;
+    margin-left:148px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread1
+{
+    position:absolute;
+    margin-left:292px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread2
+{
+    position:absolute;
+    margin-left:442px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread3
+{
+    position:absolute;
+    margin-left:586px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+
+#main
+{
+    background-color:#fff;
+    width:780px;
+    margin-left:14px;
+}
+#userLoginName
+{
+    margin-top:65px;
+    margin-left:540px;
+}
+#userLoginName a
+{
+    text-decoration:none;
+}
+
+
+
+
+#answer
+{
+    margin-top:25px;
+}
+#answer div
+{
+    float:left;
+    
+}
+#message
+{
+    clear:both;
+}
+#logo
+{
+   
+    margin-left:230px;
+}
+#logo-answer
+{
+    margin-left:25px;
+}
+
+#answerContent
+{
+    margin-top:8px;
+}
+a
+{
+    text-decoration:none;
+}
+#index
+{
+    padding-left:15px;
+}
+#questionCon
+{
+    margin-left:2px;
+    margin-top:8px;
+}
+#xian
+{
+    clear:both;
+    margin-top:50px;
+}
+#message
+{
+    margin-left:45px;
+    margin-top:20px;
+}
+
+#Reset1
+{
+    margin-left:40px;
+}
+
+#footer
+{
+    
+    width:780px;
+    height:38px;
+    background:url(../Image/EducationImage/bgfooter.gif);
+    margin-bottom:5px;
+    margin-left:15px;
+    margin-top:50px;
+}
+
+#footContaint p
+{
+   text-align:center;
+   margin-left:70px;
+   color:#fff;
+   line-height:38px;
+}
+
+
+#mainContent
+{
+    border:1px solid #ddd;
+}
+#mainContent-head
+{
+    border-bottom:1px solid #ddd;
+    
+    width:780px;
+    height:35px;
+    background:url(../Image/EducationImage/box_tit_bg.gif);
+}
+span
+{
+    background:url(../Image/EducationImage/icon.gif) no-repeat 0 -1px;
+    padding-left:25px;
+    margin-left:15px;
+    line-height:35px;
+    font-size:15px;
+}
+h2
+{
+    text-align:center;
+    font-size:25px;
+    border-bottom:1px dotted #ddd;
+    margin:0 auto;
+
+    line-height:50px;
+}
+p
+{
+    line-height:30px;
+    border-bottom:1px dotted #ddd;
+    text-align:center;
+}

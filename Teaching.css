@@ -1,0 +1,223 @@
+﻿
+body
+{
+    background:url(../Image/EducationImage/bg.jpg);
+}
+#container
+{ 
+    border:1px solid #ddd;
+    width:810px;
+    margin:0 auto;
+    background-color:#fff;
+    margin-top:15px;
+}
+#header
+{
+    width:780px;
+    height:220px;
+    background:url(../Image/EducationImage/qyb1.jpg);
+    margin-left:14px;
+    margin-top:15px;
+}
+
+#title
+{
+    position:absolute;
+    top:30px;
+    margin-left:10px;
+    font-size:40px;
+    color:#fff;
+   
+}
+
+#nav
+{
+    width:780px;
+    height:53px;
+    background:url(../Image/EducationImage/nav.jpg);
+    position:absolute;
+    top:255px;
+    margin-left:14px;
+}
+#nav-list li
+{
+    float:left;
+    line-height:53px;
+    margin-left:75px;
+   
+}
+#nav-list li a
+{
+    font-size:large;
+    color:#fff;
+    text-decoration:none;
+}
+
+.thread
+{
+    position:absolute;
+    margin-left:148px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread1
+{
+    position:absolute;
+    margin-left:292px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread2
+{
+    position:absolute;
+    margin-left:442px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+.thread3
+{
+    position:absolute;
+    margin-left:586px;
+    width:1px;
+    height:53px;
+    background-color:#ddd;
+}
+
+#main
+{
+    background-color:#fff;
+    width:780px;
+    margin-left:14px;
+}
+
+#userLoginName
+{
+    margin-top:65px;
+    margin-left:540px;
+}
+#userLoginName a
+{
+    text-decoration:none;
+}
+
+
+
+#tbKey
+{
+    width:300px;
+}
+
+#searchBox
+{
+    font-size:15px;
+    display:none;
+    width:97%;
+    margin:0 auto;
+}
+
+
+
+
+#answer
+{
+    margin-top:25px;
+}
+#locatin1
+{
+    margin-top:25px;
+}
+
+#answer div
+{
+    float:left;
+    
+}
+#message
+{
+    clear:both;
+}
+#logo
+{
+   
+    margin-left:230px;
+}
+#logo-answer
+{
+    margin-left:25px;
+}
+
+#answerContent
+{
+     margin-top:8px;
+}
+a
+{
+    text-decoration:none;
+}
+#index
+{
+    padding-left:0px;
+    float:left;
+}
+#questionCon
+{
+    margin-left:2px;
+    margin-top:8px;
+}
+#xian
+{
+    clear:both;
+    
+}
+#message
+{
+    margin-left:45px;
+    margin-top:20px;
+}
+
+#Reset1
+{
+    margin-left:40px;
+}
+
+#footer
+{
+    
+    width:780px;
+    height:38px;
+    background:url(../Image/EducationImage/bgfooter.gif);
+    margin-bottom:5px;
+    margin-left:15px;
+    margin-top:50px;
+}
+
+#footContaint p
+{
+   text-align:center;
+   margin-left:70px;
+   color:#fff;
+   line-height:38px;
+}
+
+#teaching-list
+{
+    margin:0 auto;
+    width:780px;
+}
+#teaching-list tr,#teaching-list td,#teaching-list th
+{
+    border:1px solid #ddd;
+    text-align:center;
+}
+.teaching-content
+{
+    background-color:#f3f4f0;
+}
+#page
+{
+    padding:10px;
+    float:right;
+}
